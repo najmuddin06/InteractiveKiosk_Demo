@@ -11,5 +11,5 @@ An interactive kiosk system built in Unity designed for educational exhibit mana
 * `Assets/Scripts/KioskManager.cs` — Main UI controller managing state changes and screen updates.
 
 ## 🚀 How to Run
-* **Playable Demo:** Download the pre-built executable from the [Releases](link-to-your-release) tab.
+* **Playable Demo:** Download the pre-built executable from the [Releases]((https://github.com/najmuddin06/InteractiveKiosk_Demo/blob/main/InteractiveKiosk_IdeoDemo.exe)) tab.
 * **Unity Source:** Open using Unity 2022.3 LTS (or your Unity version).
